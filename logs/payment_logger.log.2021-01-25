@@ -1,0 +1,552 @@
+2021-01-25 22:32:16 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:32:16 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:32:16 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:32:16 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:32:23 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:32:23 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:32:23 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:32:23 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:32:23 INFO     127.0.0.1 - - [25/Jan/2021 22:32:23] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:32:23 INFO     127.0.0.1 - - [25/Jan/2021 22:32:23] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:33:43 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:33:43 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:33:43 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:33:43 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:33:59 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:33:59 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:33:59 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:33:59 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:33:59 INFO     127.0.0.1 - - [25/Jan/2021 22:33:59] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:33:59 INFO     127.0.0.1 - - [25/Jan/2021 22:33:59] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:36:47 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:36:47 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:36:47 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:36:47 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:36:51 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:36:51 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:36:51 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:36:51 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:36:51 INFO     127.0.0.1 - - [25/Jan/2021 22:36:51] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:36:51 INFO     127.0.0.1 - - [25/Jan/2021 22:36:51] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:36:53 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:36:53 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:36:53 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:36:53 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:36:53 INFO     127.0.0.1 - - [25/Jan/2021 22:36:53] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:36:53 INFO     127.0.0.1 - - [25/Jan/2021 22:36:53] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:38:43 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:38:43 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:38:43 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:38:43 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:38:46 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:38:46 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:38:46 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:38:46 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:38:46 INFO     127.0.0.1 - - [25/Jan/2021 22:38:46] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:38:46 INFO     127.0.0.1 - - [25/Jan/2021 22:38:46] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:39:42 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:39:42 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:39:42 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:39:42 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:39:45 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:39:45 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:39:45 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:39:45 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:39:45 INFO     127.0.0.1 - - [25/Jan/2021 22:39:45] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:39:45 INFO     127.0.0.1 - - [25/Jan/2021 22:39:45] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:40:02 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:40:02 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:40:02 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:40:02 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:40:02 INFO     127.0.0.1 - - [25/Jan/2021 22:40:02] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:40:02 INFO     127.0.0.1 - - [25/Jan/2021 22:40:02] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:40:10 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:40:10 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:40:10 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:40:10 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:40:12 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:40:12 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:40:12 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:40:12 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:40:12 INFO     127.0.0.1 - - [25/Jan/2021 22:40:12] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:40:12 INFO     127.0.0.1 - - [25/Jan/2021 22:40:12] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:43:57 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:43:57 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:43:57 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:43:57 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:44:00 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:44:00 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:44:00 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:44:00 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:44:00 INFO     127.0.0.1 - - [25/Jan/2021 22:44:00] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:44:00 INFO     127.0.0.1 - - [25/Jan/2021 22:44:00] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:44:53 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:44:53 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:44:53 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:44:53 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:44:57 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:44:57 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:44:57 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:44:57 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:44:57 INFO     127.0.0.1 - - [25/Jan/2021 22:44:57] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:44:57 INFO     127.0.0.1 - - [25/Jan/2021 22:44:57] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:46:00 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:46:00 ERROR    Invalid CreditCardNumber. Please pass correct CreditCard Number.
+2021-01-25 22:46:00 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:46:00 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:46:00 INFO     127.0.0.1 - - [25/Jan/2021 22:46:00] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:46:00 INFO     127.0.0.1 - - [25/Jan/2021 22:46:00] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:53:56 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:53:56 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 22:53:56 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:53:56 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 22:55:51 ERROR    Invalid ExpirationDate Format. Please pass ExpirationDate in format yyyy-mm-dd.
+2021-01-25 22:55:51 ERROR    Invalid ExpirationDate Format. Please pass ExpirationDate in format yyyy-mm-dd.
+2021-01-25 22:55:51 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:55:51 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:55:51 INFO     127.0.0.1 - - [25/Jan/2021 22:55:51] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:55:51 INFO     127.0.0.1 - - [25/Jan/2021 22:55:51] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:56:38 ERROR    Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-25 22:56:38 ERROR    Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-25 22:56:38 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:56:38 ERROR    payment cannot be processed. Reason too many values to unpack (expected 2)
+2021-01-25 22:56:38 INFO     127.0.0.1 - - [25/Jan/2021 22:56:38] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 22:56:38 INFO     127.0.0.1 - - [25/Jan/2021 22:56:38] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:03:31 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:03:31 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:03:31 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:03:31 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:03:34 ERROR    payment cannot be processed. Reason 'check_SecurityCode'
+2021-01-25 23:03:34 ERROR    payment cannot be processed. Reason 'check_SecurityCode'
+2021-01-25 23:03:34 INFO     127.0.0.1 - - [25/Jan/2021 23:03:34] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:03:34 INFO     127.0.0.1 - - [25/Jan/2021 23:03:34] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:05:29 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:05:29 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:05:29 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:05:29 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:05:33 INFO     SecurityCode is not in correct format
+2021-01-25 23:05:33 INFO     SecurityCode is not in correct format
+2021-01-25 23:05:33 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:05:33 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:05:33 INFO     127.0.0.1 - - [25/Jan/2021 23:05:33] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:05:33 INFO     127.0.0.1 - - [25/Jan/2021 23:05:33] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:05:40 INFO     SecurityCode is not in correct format
+2021-01-25 23:05:40 INFO     SecurityCode is not in correct format
+2021-01-25 23:05:40 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:05:40 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:05:40 INFO     127.0.0.1 - - [25/Jan/2021 23:05:40] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:05:40 INFO     127.0.0.1 - - [25/Jan/2021 23:05:40] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:11:18 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:11:18 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:11:18 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:11:18 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:11:23 INFO     SecurityCode is not in correct format
+2021-01-25 23:11:23 INFO     SecurityCode is not in correct format
+2021-01-25 23:11:23 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:11:23 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:11:23 INFO     127.0.0.1 - - [25/Jan/2021 23:11:23] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:11:23 INFO     127.0.0.1 - - [25/Jan/2021 23:11:23] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:20:06 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:20:06 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:20:06 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:20:06 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:20:09 INFO     SecurityCode is not in correct format
+2021-01-25 23:20:09 INFO     SecurityCode is not in correct format
+2021-01-25 23:20:09 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:20:09 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:20:09 INFO     127.0.0.1 - - [25/Jan/2021 23:20:09] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:20:09 INFO     127.0.0.1 - - [25/Jan/2021 23:20:09] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:20:59 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:20:59 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:20:59 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:20:59 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:21:02 INFO     SecurityCode is not in correct format
+2021-01-25 23:21:02 INFO     SecurityCode is not in correct format
+2021-01-25 23:21:02 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:21:02 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:21:02 INFO     127.0.0.1 - - [25/Jan/2021 23:21:02] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:21:02 INFO     127.0.0.1 - - [25/Jan/2021 23:21:02] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:23:36 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:23:36 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:23:36 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:23:36 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:23:39 INFO     SecurityCode is not in correct format
+2021-01-25 23:23:39 INFO     SecurityCode is not in correct format
+2021-01-25 23:23:39 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:23:39 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:23:39 INFO     127.0.0.1 - - [25/Jan/2021 23:23:39] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:23:39 INFO     127.0.0.1 - - [25/Jan/2021 23:23:39] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:24:30 INFO     SecurityCode is not in correct format
+2021-01-25 23:24:30 INFO     SecurityCode is not in correct format
+2021-01-25 23:24:30 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:24:30 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:24:30 INFO     127.0.0.1 - - [25/Jan/2021 23:24:30] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:24:30 INFO     127.0.0.1 - - [25/Jan/2021 23:24:30] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:24:43 INFO     SecurityCode is not in correct format
+2021-01-25 23:24:43 INFO     SecurityCode is not in correct format
+2021-01-25 23:24:43 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:24:43 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:24:43 INFO     127.0.0.1 - - [25/Jan/2021 23:24:43] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:24:43 INFO     127.0.0.1 - - [25/Jan/2021 23:24:43] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:37:22 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:37:22 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:37:22 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:37:22 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:37:24 INFO     SecurityCode is not in correct format
+2021-01-25 23:37:24 INFO     SecurityCode is not in correct format
+2021-01-25 23:37:24 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:37:24 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:37:24 INFO     127.0.0.1 - - [25/Jan/2021 23:37:24] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:37:24 INFO     127.0.0.1 - - [25/Jan/2021 23:37:24] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:40:07 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:40:07 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:40:07 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:40:07 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:40:10 INFO     Validating Credit Card Number.
+2021-01-25 23:40:10 INFO     Validating Credit Card Number.
+2021-01-25 23:40:10 INFO     Validating Card Holder name.
+2021-01-25 23:40:10 INFO     Validating Card Holder name.
+2021-01-25 23:40:10 INFO     Validating Expiration Date.
+2021-01-25 23:40:10 INFO     Validating Expiration Date.
+2021-01-25 23:40:10 INFO     Validating Security Code.
+2021-01-25 23:40:10 INFO     Validating Security Code.
+2021-01-25 23:40:10 INFO     SecurityCode is not in correct format
+2021-01-25 23:40:10 INFO     SecurityCode is not in correct format
+2021-01-25 23:40:10 INFO     Validating Amount .
+2021-01-25 23:40:10 INFO     Validating Amount .
+2021-01-25 23:40:10 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:40:10 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:40:10 INFO     127.0.0.1 - - [25/Jan/2021 23:40:10] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:40:10 INFO     127.0.0.1 - - [25/Jan/2021 23:40:10] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:44:25 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:44:25 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:44:25 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:44:25 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:44:30 INFO     Validating Credit Card Number.
+2021-01-25 23:44:30 INFO     Validating Credit Card Number.
+2021-01-25 23:44:30 INFO     Validating Card Holder name.
+2021-01-25 23:44:30 INFO     Validating Card Holder name.
+2021-01-25 23:44:30 INFO     Validating Expiration Date.
+2021-01-25 23:44:30 INFO     Validating Expiration Date.
+2021-01-25 23:44:30 INFO     Validating Security Code.
+2021-01-25 23:44:30 INFO     Validating Security Code.
+2021-01-25 23:44:30 INFO     SecurityCode is not in correct format
+2021-01-25 23:44:30 INFO     SecurityCode is not in correct format
+2021-01-25 23:44:30 INFO     Validating Amount .
+2021-01-25 23:44:30 INFO     Validating Amount .
+2021-01-25 23:44:30 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:44:30 ERROR    Exception on /payment [POST]
+Traceback (most recent call last):
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/afzalhassan/Documents/Volume/karvy_test/Filed_Interview_Problem/venv/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-25 23:44:30 INFO     127.0.0.1 - - [25/Jan/2021 23:44:30] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:44:30 INFO     127.0.0.1 - - [25/Jan/2021 23:44:30] "[35m[1mPOST /payment HTTP/1.1[0m" 500 -
+2021-01-25 23:45:15 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:45:15 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:45:15 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:45:15 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:45:18 INFO     Validating Credit Card Number.
+2021-01-25 23:45:18 INFO     Validating Credit Card Number.
+2021-01-25 23:45:18 INFO     Validating Card Holder name.
+2021-01-25 23:45:18 INFO     Validating Card Holder name.
+2021-01-25 23:45:18 INFO     Validating Expiration Date.
+2021-01-25 23:45:18 INFO     Validating Expiration Date.
+2021-01-25 23:45:18 INFO     Validating Security Code.
+2021-01-25 23:45:18 INFO     Validating Security Code.
+2021-01-25 23:45:18 INFO     SecurityCode is not in correct format
+2021-01-25 23:45:18 INFO     SecurityCode is not in correct format
+2021-01-25 23:45:18 INFO     Validating Amount .
+2021-01-25 23:45:18 INFO     Validating Amount .
+2021-01-25 23:45:18 INFO     Invalid Amount. Please pass correct Amount Number.
+2021-01-25 23:45:18 INFO     Invalid Amount. Please pass correct Amount Number.
+2021-01-25 23:45:18 INFO     127.0.0.1 - - [25/Jan/2021 23:45:18] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:45:18 INFO     127.0.0.1 - - [25/Jan/2021 23:45:18] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:46:26 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:46:26 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:46:26 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:46:26 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:46:29 INFO     Validating Credit Card Number.
+2021-01-25 23:46:29 INFO     Validating Credit Card Number.
+2021-01-25 23:46:29 INFO     Validating Card Holder name.
+2021-01-25 23:46:29 INFO     Validating Card Holder name.
+2021-01-25 23:46:29 INFO     Validating Expiration Date.
+2021-01-25 23:46:29 INFO     Validating Expiration Date.
+2021-01-25 23:46:29 INFO     Validating Security Code.
+2021-01-25 23:46:29 INFO     Validating Security Code.
+2021-01-25 23:46:29 INFO     SecurityCode is not in correct format
+2021-01-25 23:46:29 INFO     SecurityCode is not in correct format
+2021-01-25 23:46:29 INFO     Validating Amount .
+2021-01-25 23:46:29 INFO     Validating Amount .
+2021-01-25 23:46:29 INFO     Invalid Amount. Please pass correct Amount Number.
+2021-01-25 23:46:29 INFO     Invalid Amount. Please pass correct Amount Number.
+2021-01-25 23:46:29 INFO     127.0.0.1 - - [25/Jan/2021 23:46:29] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:46:29 INFO     127.0.0.1 - - [25/Jan/2021 23:46:29] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:48:25 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:48:25 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:48:25 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:48:25 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:48:28 INFO     Validating Credit Card Number.
+2021-01-25 23:48:28 INFO     Validating Credit Card Number.
+2021-01-25 23:48:28 INFO     Validating Card Holder name.
+2021-01-25 23:48:28 INFO     Validating Card Holder name.
+2021-01-25 23:48:28 INFO     Validating Expiration Date.
+2021-01-25 23:48:28 INFO     Validating Expiration Date.
+2021-01-25 23:48:28 INFO     Validating Security Code.
+2021-01-25 23:48:28 INFO     Validating Security Code.
+2021-01-25 23:48:28 INFO     SecurityCode is not in correct format
+2021-01-25 23:48:28 INFO     SecurityCode is not in correct format
+2021-01-25 23:48:28 INFO     Validating Amount .
+2021-01-25 23:48:28 INFO     Validating Amount .
+2021-01-25 23:48:28 INFO     Invalid Amount. Please pass correct Amount Number.
+2021-01-25 23:48:28 INFO     Invalid Amount. Please pass correct Amount Number.
+2021-01-25 23:48:28 INFO     127.0.0.1 - - [25/Jan/2021 23:48:28] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:48:28 INFO     127.0.0.1 - - [25/Jan/2021 23:48:28] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:48:58 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:48:58 INFO     No port number specified. Using the default port number of 5005
+2021-01-25 23:48:58 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:48:58 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-25 23:49:01 INFO     Validating Credit Card Number.
+2021-01-25 23:49:01 INFO     Validating Credit Card Number.
+2021-01-25 23:49:01 INFO     Validating Card Holder name.
+2021-01-25 23:49:01 INFO     Validating Card Holder name.
+2021-01-25 23:49:01 INFO     Validating Expiration Date.
+2021-01-25 23:49:01 INFO     Validating Expiration Date.
+2021-01-25 23:49:01 INFO     Validating Security Code.
+2021-01-25 23:49:01 INFO     Validating Security Code.
+2021-01-25 23:49:01 INFO     SecurityCode is not in correct format
+2021-01-25 23:49:01 INFO     SecurityCode is not in correct format
+2021-01-25 23:49:01 INFO     Validating Amount .
+2021-01-25 23:49:01 INFO     Validating Amount .
+2021-01-25 23:49:01 INFO     127.0.0.1 - - [25/Jan/2021 23:49:01] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-25 23:49:01 INFO     127.0.0.1 - - [25/Jan/2021 23:49:01] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:37:28 INFO     No port number specified. Using the default port number of 5005
+2021-01-26 01:37:28 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-26 01:37:33 INFO     Validating Credit Card Number.
+2021-01-26 01:37:33 INFO     Validating Card Holder name.
+2021-01-26 01:37:33 INFO     Validating Expiration Date.
+2021-01-26 01:37:33 INFO     Validating Security Code.
+2021-01-26 01:37:33 INFO     SecurityCode is not in correct format
+2021-01-26 01:37:33 INFO     Validating Amount .
+2021-01-26 01:37:33 INFO     127.0.0.1 - - [26/Jan/2021 01:37:33] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:37:59 INFO     Validating Credit Card Number.
+2021-01-26 01:37:59 INFO     Validating Card Holder name.
+2021-01-26 01:37:59 INFO     Validating Expiration Date.
+2021-01-26 01:37:59 INFO     Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-26 01:37:59 INFO     127.0.0.1 - - [26/Jan/2021 01:37:59] "[37mPOST /payment HTTP/1.1[0m" 200 -

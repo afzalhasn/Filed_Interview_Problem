@@ -1,0 +1,52 @@
+2021-01-26 01:37:28 INFO     No port number specified. Using the default port number of 5005
+2021-01-26 01:37:28 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-26 01:37:33 INFO     Validating Credit Card Number.
+2021-01-26 01:37:33 INFO     Validating Card Holder name.
+2021-01-26 01:37:33 INFO     Validating Expiration Date.
+2021-01-26 01:37:33 INFO     Validating Security Code.
+2021-01-26 01:37:33 INFO     SecurityCode is not in correct format
+2021-01-26 01:37:33 INFO     Validating Amount .
+2021-01-26 01:37:33 INFO     127.0.0.1 - - [26/Jan/2021 01:37:33] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:37:59 INFO     Validating Credit Card Number.
+2021-01-26 01:37:59 INFO     Validating Card Holder name.
+2021-01-26 01:37:59 INFO     Validating Expiration Date.
+2021-01-26 01:37:59 INFO     Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-26 01:37:59 INFO     127.0.0.1 - - [26/Jan/2021 01:37:59] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:42:58 INFO     No port number specified. Using the default port number of 5005
+2021-01-26 01:42:58 INFO     No port number specified. Using the default port number of 5005
+2021-01-26 01:42:58 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-26 01:42:58 INFO      * Running on http://0.0.0.0:5005/ (Press CTRL+C to quit)
+2021-01-26 01:43:02 INFO     Validating Credit Card Number.
+2021-01-26 01:43:02 INFO     Validating Credit Card Number.
+2021-01-26 01:43:02 INFO     Validating Card Holder name.
+2021-01-26 01:43:02 INFO     Validating Card Holder name.
+2021-01-26 01:43:02 INFO     Validating Expiration Date.
+2021-01-26 01:43:02 INFO     Validating Expiration Date.
+2021-01-26 01:43:02 INFO     Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-26 01:43:02 INFO     Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-26 01:43:02 INFO     127.0.0.1 - - [26/Jan/2021 01:43:02] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:43:02 INFO     127.0.0.1 - - [26/Jan/2021 01:43:02] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:43:12 INFO     Validating Credit Card Number.
+2021-01-26 01:43:12 INFO     Validating Credit Card Number.
+2021-01-26 01:43:12 INFO     Validating Card Holder name.
+2021-01-26 01:43:12 INFO     Validating Card Holder name.
+2021-01-26 01:43:12 INFO     Validating Expiration Date.
+2021-01-26 01:43:12 INFO     Validating Expiration Date.
+2021-01-26 01:43:12 INFO     Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-26 01:43:12 INFO     Incorrect ExpirationDate. Please pass correct ExpirationDate. 
+2021-01-26 01:43:12 INFO     127.0.0.1 - - [26/Jan/2021 01:43:12] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:43:12 INFO     127.0.0.1 - - [26/Jan/2021 01:43:12] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:43:24 INFO     Validating Credit Card Number.
+2021-01-26 01:43:24 INFO     Validating Credit Card Number.
+2021-01-26 01:43:24 INFO     Validating Card Holder name.
+2021-01-26 01:43:24 INFO     Validating Card Holder name.
+2021-01-26 01:43:24 INFO     Validating Expiration Date.
+2021-01-26 01:43:24 INFO     Validating Expiration Date.
+2021-01-26 01:43:24 INFO     Validating Security Code.
+2021-01-26 01:43:24 INFO     Validating Security Code.
+2021-01-26 01:43:24 INFO     SecurityCode is not in correct format
+2021-01-26 01:43:24 INFO     SecurityCode is not in correct format
+2021-01-26 01:43:24 INFO     Validating Amount .
+2021-01-26 01:43:24 INFO     Validating Amount .
+2021-01-26 01:43:24 INFO     127.0.0.1 - - [26/Jan/2021 01:43:24] "[37mPOST /payment HTTP/1.1[0m" 200 -
+2021-01-26 01:43:24 INFO     127.0.0.1 - - [26/Jan/2021 01:43:24] "[37mPOST /payment HTTP/1.1[0m" 200 -
